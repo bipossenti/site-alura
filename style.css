@@ -29,7 +29,7 @@ body {
 }
 
 .produtos{
-    background-image: linear-gradient(#4B0082,#9400D3);
+    background-image: linear-gradient(#4B0082,#FF69B4);
     color:white;
     display: flex;
     justify-content: center;
